@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource>
+ <item name="payment_starter_packs_headline"><![CDATA[Стартови пакети]]></item>
+ <item name="payment_starter_packs_headline_new"><![CDATA[Стартови комплекти]]></item>
+ <item name="payment_starter_packs_text"><![CDATA[Постоянно под обстрел? Не се бави и се възползвай от тази оферта! После веднага се върни обратно!]]></item>
+ <item name="payment_premium_members_headline"><![CDATA[Премиум играчи]]></item>
+ <item name="payment_premium_members_text"><![CDATA[Само за амбициозни пилоти. Превземи вселената!]]></item>
+ <item name="payment_advantage_packs_headline"><![CDATA[Бонус-пакети]]></item>
+ <item name="payment_advantage_packs_headline_new"><![CDATA[Спестовни пакети]]></item>
+ <item name="payment_advantage_packs_text"><![CDATA[По-бърз, по-силен и неудържим! Никой няма да посммее да ти се опълчи!]]></item>
+ <item name="payment_equipment_packs_headline"><![CDATA[Пакети с оборудване]]></item>
+ <item name="payment_deal_packs_headline"><![CDATA[Най-добрите предложения]]></item>
+ <item name="payment_equipment_packs_text"><![CDATA[Зареждай и стреляй! Покажи на враговете си какво е страх - с мощни оръжия и щитове за отбрана.]]></item>
+ <item name="payment_get_uridium"><![CDATA[Набави уридиум]]></item>
+ <item name="payment_earn_uridium"><![CDATA[Cash for action]]></item>
+ <item name="payment_lottery_text_title"><![CDATA[ЛОТАРИЙНА КАПСУЛА]]></item>
+ <item name="payment_lottery_text_description"><![CDATA[Капсулите можеш да получиш по три начина. Трябва да унищожиш HITAC NPC-то или неговите сателитни кораби "Minions", от които ще вземеш части за буквения пъзел. Можеш, също така, да си закупиш в сектора за плащанията.
+На страницата за УРИДИУМ можеш да превърнеш капсулите в лотарийни билети. За целта е необходимо само да кликнеш върху бутона на трансформатора. Ако искаш да превърнеш повече на брой капсули в лотарийни билети, трябва да посочиш техния брой в съответното меню.]]></item>
+ <item name="payment_lottery_text_remaincapsules"><![CDATA[Оставащи капсули]]></item>
+ <item name="payment_lottery_button_payment"><![CDATA[Купи още капсули]]></item>
+ <item name="payment_lottery_text_sunconverter"><![CDATA[Слънчев трансформатор]]></item>
+ <item name="payment_lottery_text_moonconverter"><![CDATA[Лунен трансформатор]]></item>
+ <item name="payment_lottery_text_frostconverter"><![CDATA[Леден трансформатор]]></item>
+ <item name="payment_lottery_text_hitacconverter"><![CDATA[Трансформатор на капсули]]></item>
+ <item name="payment_lottery_text_converter"><![CDATA[Трансформатор на капсули]]></item>
+ <item name="payment_lottery_text_convert"><![CDATA[Трансформирай]]></item>
+ <item name="payment_lottery_select_defaulttext"><![CDATA[Избор на количество]]></item>
+ <item name="payment_lottery_text_log_head"><![CDATA[Незабавни награди]]></item>
+ <item name="payment_lottery_text_log_description"><![CDATA[Може да се види в log book]]></item>
+ <item name="payment_lottery_text_log_text_capsules"><![CDATA[%amount% трансформирани капсули]]></item>
+ <item name="payment_lottery_text_disclaimer"><![CDATA[Условия за участие Служителите на Bigpoint, както и техните партньори и роднини, нямат право на участие. При нарушаване на правилата за участие Bigpoint си запазва правото да дисквалифицира и изключи нарушителите от състезанието. Също така ще бъдат дисквалифицирани и лицата, които използват незаконни средства или манипулират играта по какъвто и да е начин и под каквато и да е форма с цел получаване на нечестни предимства. В подобни случаи наградите ще бъдат обявени за невалидни и ще трябва да бъдат върнати.<br>Също така потребителите от Италия, Бразилия и някои щати на САЩ нямат право да участват в жребии за материални награди.]]></item>
+ <item name="payment_lottery_text_dialog_nocapsules"><![CDATA[Нямаш капсули за трансформиране. В сектора за плащанията можеш да си поръчаш нови: %LINK_START%Купи още капсули%LINK_END%]]></item>
+ <item name="payment_lottery_tooltip_moonconverter"><![CDATA[В лунния трансформатор можеш да превръщаш капсулите си в лотарийни билети за лотарията с ингейм награди!]]></item>
+ <item name="payment_lottery_tooltip_frostconverter"><![CDATA[Възползвай се от ледения трансформатор, за да размениш капсули срещу лотарийни билети за спечелването на невероятни награди в играта.]]></item>
+ <item name="payment_lottery_tooltip_hitacconverter"><![CDATA[Възползвай се от трансформатора на капсули, за да размениш капсули срещу лотарийни билети за спечелването на невероятни награди в играта.]]></item>
+ <item name="payment_lottery_tooltip_sunconverter"><![CDATA[В слънчевия трансформатор можеш да превръщаш капсулите си в лотарийни билети за лотарията с предметни награди от партньорите ни.]]></item>
+ <item name="partnerPromo_lottery_not_allowed_country"><![CDATA[За съжаление, в твоята страна лотарията с предметни награди е забранена.]]></item>
+ <item name="partnerPromo_lottery_capsules_converted_sunconverter"><![CDATA[Ти успешно използва капсулата(лите) си за слънчевия трансформатор.]]></item>
+ <item name="partnerPromo_lottery_capsules_converted_moonconverter"><![CDATA[Ти успешно използва капсулата(лите) си за лунния трансформатор.]]></item>
+ <item name="partnerPromo_lottery_capsules_converted_frostconverter"><![CDATA[Успешно размени капсулата(ите) си в ледения трансформатор.]]></item>
+ <item name="partnerPromo_lottery_capsules_converted_hitacconverter"><![CDATA[Ти успешно използва капсулата(ите) си в трансформатора на капсули.]]></item>
+ <item name="partnerPromo_popup_prizes_antec_header"><![CDATA[Лотарийни награди от слънчевия трансформатор]]></item>
+ <item name="partnerPromo _popup_prizes_antec_teaser"><![CDATA[TEASER]]></item>
+ <item name="partnerPromo _popup_prizes_antec_content"><![CDATA[Спечели супер награди в слънчевия трансформатор! Ако използваш капсулите си за слънчевия трансформатор и ги превърнеш в лотарийни билети, ще имаш неповторимия шанс да спечелиш чисто нов <span class="breakingNewsHighlightBlue"><b>елегантен геймърски ноутбук SCHENKER S413</b></span>. Освен това ще разиграем още над 50 страхотни хардуерни награди, предоставени от ROCCAT™. Внимание! Тегленето ще важи цялостно за играта, а не за отделните сървъри! (възможно е изображенията да се различават от наградите)]]></item>
+ <item name="partnerPromo _popup_prizes_antec_footer"><![CDATA[FOOTER]]></item>
+ <item name="payment_lottery_tooltip_sunconverter_default"><![CDATA[В слънчевия трансформатор можеш да размениш капсулите си за лотарийни билети.]]></item>
+ <item name="payment_lottery_tooltip_moonconverter_default"><![CDATA[В лунния трансформатор можеш да превърнеш капсулите в билети за предметната лотария със страхотни награди в играта, като един милион уридиум или пакет с лазери от типа LF4.]]></item>
+ <item name="payment_lottery_tooltip_frostconverter_default"><![CDATA[Превърни капсулите си в билети за лотарията „Hitac“ с помощта на ледения трансформатор. Очакват те невероятни награди, в т. ч. леден портал, нови арктически корабни дизайни, пакети лазери LF4, един милион уридиум и много други!]]></item>
+ <item name="payment_lottery_tooltip_hitacconverter_default"><![CDATA[Превърни капсулите си в билети за лотарията Hitac с помощта на трансформатора на капсули. Очакват те невероятни награди, включително Магмени бормашини Lf-4, пакети с лазери LF-4, Индоктринно масло, Адски обшивки и цял месец премиум членство.]]></item>
+ <item name="payment_lottery_text_description_default"><![CDATA[Можеш да получиш капсули по три начина. Разруши кораба майка "HITAC 2.0" или победи неговите помощници и вземи части за буквения пъзел. Можеш да закупиш нови капсули и в раздел ПЛАЩАНЕ. На страницата "УРИДИУМ" можеш да смениш капсулите си срещу билети за слънчевата и лунната лотария. За целта е необходимо само да кликнеш върху бутона под трансформатора. Ако искаш да превърнеш повече на брой капсули в лотарийни билети, трябва да посочиш техния брой в съответното меню.]]></item>
+ <item name="payment_lottery_text_description_frostevent"><![CDATA[Има три начина за спечелване на капсули: да унищожиш кораба майка “Frost Hitac“, да победиш неговите миньони и да съставиш от изпусканите от тях букви специалната дума на събитието, или да ги купиш в магазина (което, разбира се, е най-лесният начин)! На страницата „Уридиум“ можеш да ги заредиш в ледения трансформатор и да ги размениш срещу лотарийни билети. Просто кликни на бутона под трансформатора. Ако искаш да зареждаш повече капсули на един път, трябва да увеличиш количеството им в съответното меню.]]></item>
+ <item name="payment_lottery_text_description_hitacevent"><![CDATA[Съществуват три начина за спечелване на капсули: Да унищожиш кораба майка Hitac, да победиш неговите миньони и да съставиш от изпусканите от тях букви специалната дума на събитието, или да ги купиш в магазина (което, разбира се, е най-лесният начин)! На страницата „Уридиум“ можеш да ги заредиш в трансформатора на капсули и да ги размениш срещу лотарийни билети. Просто кликни на бутона под трансформатора. Ако искаш да зареждаш повече капсули на един път, трябва да увеличиш количеството им в съответното меню.]]></item>
+ <item name="partnerPromo_popup_prizes_antec_header_default"><![CDATA[Лотарийни печалби]]></item>
+ <item name="partnerPromo_popup_prizes_content_default"><![CDATA[<b>Спечели страхотни награди в слънчевия трансформатор!</b><br><br>
+	Ако замениш капсулите си в слънчевия трансформатор за лотарийни билети, ще имаш шанса да спечелиш страхотен хардуер:<br><br>
+	<ul>
+		<li>1 елегантен геймърски ноутбук SCHENKER S413</li>
+		<li>5 клавиатури ROCCAT™ Ryos MK Glow</li>
+		<li>5 мишки ROCCATTM Kone XTD</li>
+		<li>5 комплекта слушалки ROCCATTM Kave 5.1</li>
+		<li>20 клавиатури ROCCATTM Isku</li>
+		<li>20 мишки ROCCATTM Kone Pure</li>
+		<li>…и още много други награди!</li>
+	</ul>	
+	<br><br>
+<b>Внимание!</b> Тегленето ще важи цялостно за играта, а не за отделните сървъри (възможно е изображенията да се различават от наградите).<br><br><br>
+<b>Спечели страхотни награди в лунния трансформатор!</b><br><br>
+Ако в лунния трансформатор превърнеш капсулите си в лотарийни билети, имаш шанса да спечелиш в един от сървърите страхотни награди в играта:<br><br>
+<ul>
+		<li>1 x 1 милион уридиум</li>
+		<li>1 x 30 напълно ъпгрейднати лазера от типа LF4</li>
+		<li>2 x 10 напълно ъпгрейднати лазера от типа LF4</li>
+		<li>5 x 5 напълно ъпгрейднати лазера от типа LF4</li>
+		<li>1 x 30 напълно ъпгрейднати генератора за щита от типа SG3N-B02</li>
+		<li>2 x 10 напълно ъпгрейднати генератора за щита от типа SG3N-B02</li>
+		<li>5 x 5 напълно ъпгрейднати генератора за щита от типа SG3N-B02</li>
+		<li>5 x 50 000 заряда за лазерни муниции UCB-100</li>
+		<li>20 x 100 000 уридиум</li>
+	</ul>]]></item>
+ <item name="partnerPromo_popup_prizes_content_darkorbit"><![CDATA[<b>Спечели страхотни награди в слънчевия трансформатор!</b><br><br>
+	Ако размениш капсулите си за лотарийни билети в слънчевия трансформатор, ще имаш възможността да спечелиш ваучъри за един от големите онлайн магазини:<br><br>
+	<ul>
+		<li>1 ваучър на стойност 1500 €</li>
+		<li>3 ваучъра на стойност 350 €</li>
+		<li>11 ваучъра на стойност 150 €</li>
+	</ul>
+	<br><br>
+<b>Внимание!</b> Наградите се раздават за цялата орбита, а не за отделните сървъри (възможно е изображенията да се различават от наградите).<br><br><br>
+<b>Спечели страхотни награди в лунния трансформатор!</b><br><br>
+Ако размениш капсулите си за лотарийни билети в лунния трансформатор, ще имаш шанса да спечелиш на един от сървърите страхотни награди в играта:<br><br>
+<ul>
+		<li>1 x 1 милион уридиум</li>
+		<li>1 x 30 напълно ъпгрейднати лазера от типа LF4</li>
+		<li>2 x 10 напълно ъпгрейднати лазера от типа LF4</li>
+		<li>5 x 5 напълно ъпгрейднати лазера от типа LF4</li>
+		<li>1 x 30 напълно ъпгрейднати генератора за щита от типа SG3N-B02</li>
+		<li>2 x 10 напълно ъпгрейднати генератора за щита от типа SG3N-B02</li>
+		<li>5 x 5 напълно ъпгрейднати генератора за щита от типа SG3N-B02</li>
+		<li>5 x 50 000 заряда за лазерни муниции UCB-100</li>
+		<li>20 x 100 000 уридиум</li>
+	</ul>]]></item>
+ <item name="partnerPromo_popup_prizes_content_frost"><![CDATA[<b>Спечели невероятни награди в ледения трансформатор!</b><br><br>
+Разменяйки капсулите си за лотарийни билети в ледения трансформатор, ще участваш в тегленето за супер награди! Всяка от изброените по-долу награди може да бъде спечелена на всеки сървър:<br><br>
+<ul>
+<li>1 милион уридиум</li>
+<li>20 пакета с по 100 000 уридиум</li>
+<li>1 пакет с 30 напълно ъпгрейднати лазери LF4</li>
+<li>2 пакета с по 10 напълно ъпгрейднати лазери LF4</li>
+<li>5 пакета с по 5 напълно ъпгрейднати лазери LF4</li>
+<li>1 пакет с 30 напълно ъпгрейднати генератори за щитове SG3N-B02</li>
+<li>2 пакета с по 10 напълно ъпгрейднати генератори за щитове SG3N-B02</li>
+<li>5 пакета с по 5 напълно ъпгрейднати генератори за щитове SG3N-B02</li>
+<li>5 пакета с по 50 000 лазерни муниции за UCB-100</li>
+<li>10 дизайна „Arctic Spectrum“</li>
+<li>10 дизайна „Arctic Sentinel“</li>
+<li>10 дизайна „Arctic Venom“</li>
+<li>10 дизайна „Arctic Nostromo Ambassador“</li>
+<li>10 дизайна „Arctic Pusat“</li>
+<li>10 дизайна „Arctic Vengeance Lightning“</li>
+<li>10 ледени портала</li>
+	</ul>]]></item>
+ <item name="partnerPromo_popup_prizes_content_hitac"><![CDATA[<b>Спечели страхотни награди с Трансформатора на капсули!</b><br><br> Ако използваш капсулите си и ги замениш за лотарийни билети в трансформатора, ще имаш възможност да спечелиш страхотни космически награди!<br><br> <ul> <li>1 награда - 30 x Магмени бормашини LF-4</li> <li>2 награди - 10 x Магмени бормашини LF-4</li> <li>5 награди - 5 x Магмени бормашини LF-4</li> <li>1 награда - 30 x LF-4 Ниво 16</li> <li>2 награди - 10 x LF-4 Ниво 16</li> <li>5 награди - 5 x LF-4 Ниво 16</li> <li>3 награди - 1350 индоктринно масло</li> <li>20 награди - 450 индоктринно масло</li> <li>20 награди - 1 месец премиум</li> <li>5 награди - Пълен комплект Inferno</li> </ul>]]></item>
+ <item name="partnerPromo_lottery_not_allowed_country_default"><![CDATA[За съжаление участието в лотарията с предметни награди не е разрешено в държавата ти.]]></item>
+ <item name="payment_to_banking"><![CDATA[Към банкинга]]></item>
+ <item name="payment_to_banking_upper"><![CDATA[КЪМ БАНКИНГА]]></item>
+ <item name="payment_to_deals"><![CDATA[КЪМ ОФЕРТИТЕ]]></item>
+ <item name="subscription_uridium_start_xl_history"><![CDATA[Абонамент за бонус-пакет "Уридиум" XL]]></item>
+ <item name="subscription_rebate_start_xl_history"><![CDATA[Абонамент за бонус-пакет XL с отстъпка]]></item>
+ <item name="subscription_double_start_xl_history"><![CDATA[Абонамент за увдояващ бонус-пакет XL]]></item>
+ <item name="subscription_uridium_start_normal_history"><![CDATA[Абонамент за бонус-пакет "Уридиум"]]></item>
+ <item name="subscription_rebate_start_normal_history"><![CDATA[Абонамент за бонус-пакет с отстъпка]]></item>
+ <item name="subscription_double_start_normal_history"><![CDATA[Абонамент за удвояващ бонус-пакет]]></item>
+ <item name="subscription_uridium_ends_xl_history"><![CDATA[Абонаментът за бонус-пакет "Уридиум" XL изтече]]></item>
+ <item name="subscription_rebate_ends_xl_history"><![CDATA[Абонаментът за бонус-пакета с отстъпка изтече]]></item>
+ <item name="subscription_double_ends_xl_history"><![CDATA[Абонаментът за удвояващ бонус-пакет XL изтече]]></item>
+ <item name="subscription_uridium_ends_normal_history"><![CDATA[Абонаментът за бонус-пакет "Уридиум" изтече]]></item>
+ <item name="subscription_rebate_ends_normal_history"><![CDATA[Абонаментът за бонус-пакет с отстъпка изтече]]></item>
+ <item name="subscription_double_ends_normal_history"><![CDATA[Абонаментът за удвояващ бонус-пакет изтече]]></item>
+ <item name="subscription_uridium_booking_history"><![CDATA[Поръчан бонус за уридиум]]></item>
+ <item name="subscription_rebate_booking_history"><![CDATA[Абонамент за отстъпка автоматично удължен]]></item>
+ <item name="subscription_double_booking_history"><![CDATA[Поръчан удвояващ бонус]]></item>
+ <item name="payment_hl_1_new"><![CDATA[Удвояващ бонус-пакет:]]></item>
+ <item name="payment_teaser_1_new"><![CDATA[Удоволствие от действията в двоен размер - съдържанието на всеки бонус-бокс ще ти се поръчва два пъти!]]></item>
+ <item name="payment_hl_2_new"><![CDATA[Бонус-пакет "Уридиум"]]></item>
+ <item name="payment_teaser_2_new"><![CDATA[Пишеш черни цифри, враговете ти ги виждат в червено: <br />Всяка седмица ще прехвърляме 10 000 уридиум в акаунта ти!]]></item>
+ <item name="payment_hl_3_new"><![CDATA[Бонус-пакет за отстъпка:]]></item>
+ <item name="payment_teaser_3_new"><![CDATA[Повече лукс за по-малко пари: С този бонус-пакет вземи 25% бонус при всяка покупка на предмет с уридиум.]]></item>
+ <item name="payment_hl_4_new"><![CDATA[Стартови комплекти - Vengeance, Leonov и Goliath:]]></item>
+ <item name="payment_teaser_4_new"><![CDATA[Нови в DarkOrbit? Тогава вземете сега, спестете до 30% и владейте Вселената!]]></item>
+ <item name="payment_hl_5_new"><![CDATA[Спестовни пакети - Challenger, Pro и Elite:]]></item>
+ <item name="payment_teaser_5_new"><![CDATA[Ти си голям спестовник и си правиш винаги сметка? Тогава вземи сега и спести 50% или даже и повече!]]></item>
+ <item name="abo_uridium_new"><![CDATA[Uridium Bonus credit]]></item>
+ <item name="promo_pepsi_text_top"><![CDATA[Please enter your promotional code:]]></item>
+ <item name="promo_pepsi_success"><![CDATA[Code successfully redeemed!]]></item>
+ <item name="promo_pepsi_error_1"><![CDATA[An error occurred.<br />Please try again later!]]></item>
+ <item name="promo_pepsi_error_2"><![CDATA[An error occurred.<br />Your account is now locked for 1 hour. Please try again later!]]></item>
+ <item name="promo_pepsi_error_504"><![CDATA[An error occurred.<br />You have entered multiple invalid codes. The system is now temporarily locked!]]></item>
+ <item name="promo_pepsi_error_509"><![CDATA[An error occurred.<br />The code you entered is not valid!]]></item>
+ <item name="promo_pepsi_error_510"><![CDATA[An error occurred.<br />The code you entered has already been redeemed!]]></item>
+ <item name="promo_pepsi_package_redeemed"><![CDATA[Pepsi Promo Package redeemed!]]></item>
+ <item name="preroll_watched"><![CDATA[Гледай кратка реклама и получи награда!]]></item>
+ <item name="preroll_csi"><![CDATA[Получен е бонус за участие в проучването!]]></item>
+ <item name="preroll_payment_link"><![CDATA[Отърви се от рекламите срещу малка такса!]]></item>
+ <item name="preroll_hint"><![CDATA[Изгледай рекламата докрай, за да получиш 100 уридиум!]]></item>
+ <item name="galaxyGate_cinema_watched"><![CDATA[Получавате допълнителна енергия за посещението на киното!]]></item>
+ <item name="payment_targeted_deal_text"><![CDATA[Възползвай се от това страхотно предложение още сега!]]></item>
+</resource>
