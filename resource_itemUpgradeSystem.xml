@@ -9,9 +9,7 @@
  <item name="itemUpgrSyst_selectUpgradeItem_modules"><![CDATA[Modules]]></item>
  <item name="itemUpgrSyst_selectItem_level"><![CDATA[Level]]></item>
  <item name="itemUpgrSyst_upgrDescr_center_head"><![CDATA[Step 2]]></item>
- <item name="itemUpgrSyst_upgrDescr_center_text"><![CDATA[Decide how many upgrade boosts you want to use for the upgrade attempt.
-    Every boost increases your chance of a successful upgrade by
-    <span class="highlight">5%</span>.]]></item>
+ <item name="itemUpgrSyst_upgrDescr_center_text"><![CDATA[Decide how many upgrade boosts you want to use for the upgrade attempt.     Every boost increases your chance of a successful upgrade by <span class="highlight">5%</span>.]]></item>
  <item name="itemUpgrSyst_upgrDescr_center_choose"><![CDATA[In Step 1, please select an item you want to upgrade.]]></item>
  <item name="itemUpgrSyst_upgrDescr_right_head"><![CDATA[Step 3]]></item>
  <item name="itemUpgrSyst_upgrDescr_right_text"><![CDATA[After selecting the item and the number of upgrade boosts, you can start the upgrade attempt.]]></item>
