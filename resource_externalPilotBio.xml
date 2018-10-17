@@ -91,8 +91,8 @@
  <item name="pilot_bio_button_back_long"><![CDATA[Vissza]]></item>
  <item name="pilot_bio_error_message"><![CDATA[HIBAÜZENET]]></item>
  <item name="pilot_bio_error_message_long"><![CDATA[Hibaüzenet]]></item>
- <item name="pilot_bio_error_okay"><![CDATA[UDSSADSOK]]></item>
- <item name="pilot_bio_error_okay_long"><![CDATA[UDSSADSOK]]></item>
+ <item name="pilot_bio_error_okay"><![CDATA[OK]]></item>
+ <item name="pilot_bio_error_okay_long"><![CDATA[OK]]></item>
  <item name="pilot_bio_close"><![CDATA[BEZÁR]]></item>
  <item name="pilot_bio_close_long"><![CDATA[bezár]]></item>
  <item name="pilot_bio_browse"><![CDATA[TALLÓZÁS]]></item>
