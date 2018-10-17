@@ -7944,7 +7944,7 @@
  <item name="index_spielen"><![CDATA[Graj]]></item>
  <item name="index_empfohlen"><![CDATA[Zalecany]]></item>
  <item name="index_fehlermeldung"><![CDATA[Raport o błędach]]></item>
- <item name="index_ok"><![CDATA[UDSSADSOK]]></item>
+ <item name="index_ok"><![CDATA[OK]]></item>
  <item name="intro_prize_1_text"><![CDATA[Szansa na wygraną:<br />Raz w miesiącu masz możliwość wygrania Jackpota w wysokości do 10 000 euro. Gracz, który wygra bitwę Jackpot, otrzymuje swoje zebrane euro Jackpot (ze skrzynek bonusowych) wypłacone w prawdziwych euro.]]></item>
  <item name="intro_infos_text"><![CDATA[<strong>DarkOrbit Cię zafascynuje!</strong><br />DarkOrbit - jedna z najlepszych gier akcji na przeglądarkę!  Doznaj nieskończonej wielkości kosmosu grając samemu lub z sojusznikami w coraz bardziej oddalonych sektorach.  Odkrywaj nowe światy i uważaj na tajemniczych obcych.<br />Dołącz do jednej z trzech firm, które są żądne władzy w całym kosmosie i walcz w imieniu swoim i Twoich sojuszników - jako kosmiczny pilot w tej grze na przeglądarkę walczysz o władzę i bogactwo.<br />Wyposaż swój statek tak, aby stał się niebezpiecznym krążownikiem wojennym, siej postrach w kosmosie i stań się sławny w DarkOrbit!]]></item>
  <item name="intro_bigpoint_1"><![CDATA[© Bigpoint - Wszystkie prawa zastrzeżone]]></item>
@@ -8687,7 +8687,7 @@
 </ol><br><br>]]></item>
  <item name="popup_help_link_forum_as3"><![CDATA[Wyjaśnienia & wskazówki na dobry początek gry na nowej gwiezdnej mapie znajdziesz w %LINK_OPEN%przewodniku po nowym kliencie%LINK_CLOSE%]]></item>
  <item name="popup_help_old_client_switch"><![CDATA[<strong>Przejście do starego klienta</strong><br /><br />Chcesz nadal grać w starym kliencie aż do następnej dużej aktualizacji? To kliknij tutaj: <br /><br />%CHECKBOX% Korzystaj ze starego klienta]]></item>
- <item name="hint_eventitem"><![CDATA[Uwaga: %EVENTITEM% w ofercie na czas ograniczony. Skorzystaj z okazji!]]></item>
+ <item name="hint_eventitem"><![CDATA[Uwaga: %EVENTITEM% w ofercie na czas ograniczony. TLUMACZENIESkorzystaj z okazji!]]></item>
  <item name="block_cheater"><![CDATA[Twoje konto rzuciło nam się w oczy z powodu używania bugów i/lub skryptów. Dlatego zablokowaliśmy Twoje konto na %DAYS_BLOCKED% dni.]]></item>
  <item name="get_merchantdrone"><![CDATA[Otrzymałeś drona handlowego.]]></item>
  <item name="title_spring_fight"><![CDATA[Spring Fight]]></item>
@@ -8810,7 +8810,7 @@
 <li>Super dodatek: przez 1 miesiąc korzyści Premium gratis.</li> 
 <li>Kup teraz design i aktywuj go w hangarze!</li>
 </ul><br /> Nie zwlekaj, kup design i niech Twój Goliath zabłyśnie na niebiesko!<br /><br /> Tutaj przejdziesz do nowego designu dla Goliatha!]]></item>
- <item name="galaxyGates_event"><![CDATA[<strong>Dzień Galaxy Gate! Każda próba to wygrana!</strong><br /> <br /><br /> Przez całą godzinę: 50% większe prawdopodobieństwo otrzymania części wrót międzygalaktycznych!<br /><br /> Nie zwlekaj! Dzięki tej niesamowitej szansie na wygraną może szczęście się do Ciebie uśmiechnąć i może otrzymasz jakąś część do wrót. Skorzystaj z okazji! Każda próba daje wygraną, a szansa na części do wrót jest tak duża, jak nigdy dotąd!*<br /><br /> <strong>Używaj materializatora przez godzinę i zdobywaj części do wrót! Postaw teraz swoje wrota międzygalaktyczne i ruszaj do walki!</strong> <br /><br /><br /> * Szansa na część do wrót międzygalaktycznych będzie przez godzinę podwyższona, za to szansa na amunicję będzie w tym czasie o 7 procent niższa.]]></item>
+ <item name="galaxyGates_event"><![CDATA[<strong>Dzień Galaxy Gate! Każda próba to wygrana!</strong><br /> <br /><br /> Przez całą godzinę: 50% większe prawdopodobieństwo otrzymania części wrót międzygalaktycznych!<br /><br /> Nie zwlekaj! Dzięki tej niesamowitej szansie na wygraną może szczęście się do Ciebie uśmiechnąć i może otrzymasz jakąś część do wrót. TLUMACZENIESkorzystaj z okazji! Każda próba daje wygraną, a szansa na części do wrót jest tak duża, jak nigdy dotąd!*<br /><br /> <strong>Używaj materializatora przez godzinę i zdobywaj części do wrót! Postaw teraz swoje wrota międzygalaktyczne i ruszaj do walki!</strong> <br /><br /><br /> * Szansa na część do wrót międzygalaktycznych będzie przez godzinę podwyższona, za to szansa na amunicję będzie w tym czasie o 7 procent niższa.]]></item>
  <item name="blue_goliath_event"><![CDATA[<strong>Nowy design statku dla Twojego Goliatha</strong><br /><br /> Uwaga, uwaga, kosmiczni piloci! Chcesz się wyróżniać w masie Goliathów przemierzających przestworza DarkOrbit? To postaraj się o nowiuśki <span class="breakingNewsHighlightBlue">niebieski design dla Goliatha</span>! A wraz z tym designem otrzymasz dodatkowo wszystkie korzyści Premium na miesiąc!<br /><br /> <ul>
 <li>Ten wyjątkowy design statku znajdziecie już teraz w dziale płatności.</li>
 <li>Super dodatek: przez 1 miesiąc korzyści Premium gratis.</li> 
@@ -9058,7 +9058,7 @@
  <item name="tech_used_ELA"><![CDATA[Zastosowano transfer energii]]></item>
  <item name="tech_used_SBU"><![CDATA[Zastosowano osłonę awaryjną]]></item>
  <item name="tech_used_BRB"><![CDATA[Zastosowano robot naprawiający w boju]]></item>
- <item name="confirmBox_ok"><![CDATA[UDSSADSOK]]></item>
+ <item name="confirmBox_ok"><![CDATA[OK]]></item>
  <item name="confirmBox_cancel"><![CDATA[Przerwij]]></item>
  <item name="tf_already_built_drone"><![CDATA[Wybudowałeś już drona %DRONE%!]]></item>
  <item name="tf_not_enough_uridium_and_parts"><![CDATA[Nie masz wystarczająco dużo uridium lub elementów do budowy drona %DRONE%!]]></item>
@@ -9081,7 +9081,7 @@
  <item name="daily_login_layer_day3-streuner_bonus_description"><![CDATA[50 rakiet PLT-2021<br />1 kupon na skok<br />1 jedn. dodatkowej energii<br />2 części wrót Kuipera]]></item>
  <item name="daily_login_layer_day4-streuner_bonus_description"><![CDATA[250 szt. MCB-50<br />1 kupon na naprawy<br />1 jedn. dodatkowej energii<br />2 części wrót Kuipera]]></item>
  <item name="daily_login_layer_day5-streuner_bonus_description"><![CDATA[1 CDD<br />200 uridium<br />1 jedn. dodatkowej energii<br />2 części wrót Kuipera]]></item>
- <item name="daily_login_layer_accept_button"><![CDATA[UDSSADSOK]]></item>
+ <item name="daily_login_layer_accept_button"><![CDATA[OK]]></item>
  <item name="daily_login_history_day1"><![CDATA[Otrzymałeś bonus za logowanie 1 dnia.]]></item>
  <item name="daily_login_history_day2"><![CDATA[Otrzymałeś bonus za logowanie przez 2 dni.]]></item>
  <item name="daily_login_history_day3"><![CDATA[Otrzymałeś bonus za logowanie przez 3 dni.]]></item>
@@ -9228,7 +9228,7 @@
  <item name="pilot_invite_incentive_page_bonus_date"><![CDATA[Data]]></item>
  <item name="pilot_invite_incentive_page_incentives"><![CDATA[Nagroda]]></item>
  <item name="pilot_invite_incentive_page_incentives_long"><![CDATA[Zaproś znajomych i zgarnij za to tę nagrodę]]></item>
- <item name="pilot_invite_incentive_page_5_repairVouchers"><![CDATA[TŁUMACZ5 kuponów na naprawę]]></item>
+ <item name="pilot_invite_incentive_page_5_repairVouchers"><![CDATA[5 kuponów na naprawę]]></item>
  <item name="invite_incentive_page_1_cloakCPU"><![CDATA[1 CPU maskujące]]></item>
  <item name="pilot_invite_incentive_page_10_Logfiles"><![CDATA[10 CDD]]></item>
  <item name="pilot_invite_incentive_page_5_Logfiless"><![CDATA[5 CDD]]></item>
@@ -10197,7 +10197,7 @@
  <item name="sta_verkaufspreis"><![CDATA[WARTOŚĆ]]></item>
  <item name="sta_verkauf"><![CDATA[SPRZEDAJ]]></item>
  <item name="sta_zumlab"><![CDATA[DO LABORATORIUM]]></item>
- <item name="sta_ok"><![CDATA[UDSSADSOK]]></item>
+ <item name="sta_ok"><![CDATA[OK]]></item>
  <item name="sta_schiffe"><![CDATA[STATKI]]></item>
  <item name="sta_waffen"><![CDATA[BROŃ]]></item>
  <item name="sta_muni"><![CDATA[AMUNICJA]]></item>
@@ -10229,8 +10229,8 @@
  <item name="jumpportal"><![CDATA[SKOK PORTALOWY]]></item>
  <item name="dest_head"><![CDATA[ZOSTAŁEŚ ZNISZCZONY]]></item>
  <item name="dest_text"><![CDATA[Zostałeś zniszczony w walce. Aby móc grać dalej, musisz naprawić swój statek kosmiczny lub kupić nowy.]]></item>
- <item name="dest_ok"><![CDATA[UDSSADSOK]]></item>
- <item name="btn_ok"><![CDATA[UDSSADSOK]]></item>
+ <item name="dest_ok"><![CDATA[OK]]></item>
+ <item name="btn_ok"><![CDATA[OK]]></item>
  <item name="log_verbindung"><![CDATA[INFO O POŁĄCZENIU]]></item>
  <item name="log_verbindunghead"><![CDATA[Połączenie zostało przerwane]]></item>
  <item name="log_verbindungtext"><![CDATA[Obecnie nie jesteś połączony z serwerem gry Dark Orbit. Chcesz połączyć się ponownie?]]></item>
@@ -11037,7 +11037,7 @@
  <item name="ttip_cbs"><![CDATA[Stacja bojowa klanu]]></item>
  <item name="ttip_owner"><![CDATA[Właściciel]]></item>
  <item name="ttip_company"><![CDATA[Firma]]></item>
- <item name="ttip_since"><![CDATA[UDSSADSOd]]></item>
+ <item name="ttip_since"><![CDATA[Od]]></item>
  <item name="ttip_asteroid"><![CDATA[Asteroida]]></item>
  <item name="ttip_free_since"><![CDATA[Wolne od]]></item>
  <item name="ttip_all"><![CDATA[Wszystkie]]></item>
@@ -11437,7 +11437,7 @@
  <item name="achievement_QUICK_BUY_tooltip"><![CDATA[Kliknij ikonkę ze znakiem "C" na dole po prawej stronie na pasku szybkiego wyboru, aby otworzyć menu szybkich zakupów. Wybierz typ amunicji laserowej lub rakiet. Jeśli przycisk pod Twoim wybranym towarem wygląda jak "C", oznacza to, że należy zapłacić kredytami. Jeśli wygląda jak "U", cena podana jest w uridium. Rada: możliwe, że będziesz musiał najpierw pozbyć się trochę amunicji lub rakiet, zanim będziesz mógł kupić nowe.]]></item>
  <item name="achievement_QUEST_header"><![CDATA[Misja startowa]]></item>
  <item name="achievement_QUEST_directive"><![CDATA[Przyjmij dowolną misję i wykonaj ją.]]></item>
- <item name="achievement_QUEST_reward"><![CDATA[TŁUMACZ5 kuponów na naprawę]]></item>
+ <item name="achievement_QUEST_reward"><![CDATA[5 kuponów na naprawę]]></item>
  <item name="achievement_QUEST_tooltip"><![CDATA[Otwórz okno z misjami, klikając przycisk z symbolem gwiazdy (możliwe, że okno to jest już otwarte). Następnie otwórz stronę z zadaniami, przyjmij dowolną misję i wykonaj ją.]]></item>
  <item name="achievement_GROUP_header"><![CDATA[Misja grupowa]]></item>
  <item name="achievement_GROUP_directive"><![CDATA[Zaproś innego gracza do grupy albo daj Ty się zaprosić!]]></item>
@@ -11485,7 +11485,7 @@
  <item name="startupquest_QUICK_BUY_tooltip"><![CDATA[Kliknij ikonkę ze znakiem "C" na dole po prawej stronie na pasku szybkiego wyboru, aby otworzyć menu szybkich zakupów. Wybierz typ amunicji laserowej lub rakiet. Jeśli przycisk pod Twoim wybranym towarem wygląda jak "C", oznacza to, że należy zapłacić kredytami. Jeśli wygląda jak "U", cena podana jest w uridium. Rada: możliwe, że będziesz musiał najpierw pozbyć się trochę amunicji lub rakiet, zanim będziesz mógł kupić nowe.]]></item>
  <item name="startupquest_QUEST_header"><![CDATA[Misja startowa]]></item>
  <item name="startupquest_QUEST_directive"><![CDATA[Przyjmij dowolną misję i wykonaj ją.]]></item>
- <item name="startupquest_QUEST_reward"><![CDATA[TŁUMACZ5 kuponów na naprawę]]></item>
+ <item name="startupquest_QUEST_reward"><![CDATA[5 kuponów na naprawę]]></item>
  <item name="startupquest_QUEST_tooltip"><![CDATA[Otwórz okno z misjami, klikając przycisk z symbolem gwiazdy (możliwe, że okno to jest już otwarte). Następnie otwórz stronę z zadaniami, przyjmij dowolną misję i wykonaj ją.]]></item>
  <item name="startupquest_GROUP_header"><![CDATA[Misja grupowa]]></item>
  <item name="startupquest_GROUP_directive"><![CDATA[Zaproś innego gracza do grupy albo daj Ty się zaprosić!]]></item>
@@ -11982,7 +11982,7 @@
  <item name="keyboard_key_220"><![CDATA[`]]></item>
  <item name="keyboard_key_49"><![CDATA[1]]></item>
  <item name="keyboard_key_50"><![CDATA[2]]></item>
- <item name="keyboard_key_51"><![CDATA[TŁUMACZENIE3]]></item>
+ <item name="keyboard_key_51"><![CDATA[TLUMACZENIE3]]></item>
  <item name="keyboard_key_52"><![CDATA[4]]></item>
  <item name="keyboard_key_53"><![CDATA[5]]></item>
  <item name="keyboard_key_54"><![CDATA[6]]></item>
@@ -12295,7 +12295,7 @@
  <item name="popup_bswin_message_battle_station_build_time"><![CDATA[Asteroida podbita przez:]]></item>
  <item name="popup_bswin_btn_battle_station_build_time"><![CDATA[Zamknij]]></item>
  <item name="popup_bswin_title_error_message"><![CDATA[Błąd]]></item>
- <item name="popup_bswin_btn_error_message"><![CDATA[UDSSADSOK]]></item>
+ <item name="popup_bswin_btn_error_message"><![CDATA[OK]]></item>
  <item name="popup_bswin_title_confirm_module_removal"><![CDATA[Potwierdź usunięcie modułu]]></item>
  <item name="popup_bswin_message_confirm_module_removal"><![CDATA[Chcesz naprawdę usunąć ten moduł?]]></item>
  <item name="popup_bswin_btn_confirm_module_removal"><![CDATA[Potwierdź]]></item>
@@ -12597,7 +12597,7 @@
  <item name="gameentry_hintwindow_button_openshop"><![CDATA[Otwórz sklep]]></item>
  <item name="gameentry_hintwindow_button_openequipment"><![CDATA[Otwórz teraz wyposażenie]]></item>
  <item name="gameentry_hintwindow_button_openskylab"><![CDATA[Otwórz Skylab]]></item>
- <item name="gameentry_hintwindow_button_confirmation"><![CDATA[UDSSADSOK]]></item>
+ <item name="gameentry_hintwindow_button_confirmation"><![CDATA[OK]]></item>
  <item name="gameentry_hintoverviewwindow_button_archive"><![CDATA[Archiwum]]></item>
  <item name="gameentry_hintwindow_tip"><![CDATA[W celach informacyjnych]]></item>
  <item name="gameentry_hintwindow_title_welcome"><![CDATA[Wprowadzenie nowego rekruta]]></item>
@@ -12740,7 +12740,7 @@
  <item name="targeted_hintwindow_title_recallfriends"><![CDATA[Recall your friends]]></item>
  <item name="targeted_hintwindow_message_recallfriends"><![CDATA[Some of your friends haven't been around lately and you need their help to dominate the Galaxy? Recall them now!]]></item>
  <item name="targeted_hintwindow_button_recallfriends"><![CDATA[Recall friends]]></item>
- <item name="targeted_hintwindow_title_traininggrounds"><![CDATA[tłumaczUltimate Battle Arena]]></item>
+ <item name="targeted_hintwindow_title_traininggrounds"><![CDATA[tłumaczGERUltimate Battle Arena]]></item>
  <item name="targeted_hintwindow_message_traininggrounds"><![CDATA[Ultimate Battle Arena to bezpieczne miejsce, w którym można udoskonalić swoje umiejętności w walce jeden na jednego. Wygrasz lub przegrasz - miej odwagę spróbować: nie stracisz żadnych zasobów, a twoje drony nie doznają uszkodzeń. Po zakończeniu pojedynku nastąpi powrót do poprzedniej mapy przy zachowaniu pełnej liczby punktów HP i osłon.]]></item>
  <item name="targeted_hintwindow_title_motivationalSurvey"><![CDATA[Weź udział w ankiecie dla graczy!]]></item>
  <item name="targeted_hintwindow_message_motivationalSurvey"><![CDATA[Nieustannie pracujemy nad wprowadzaniem ciekawych rozwiązań i poprawą jakości gry, a opinia graczy ma dla nas ogromne znaczenie. Weź udział w ankiecie i pomóż nam ukształtować przyszłość DarkOrbit!<br>Ankieta otworzy się w oddzielnym oknie, a jej wypełnienie nie powinno zająć więcej niż 15 minut.<br>W zamian otrzymasz od nas mały upominek w postaci 250 jednostek dodatkowej energii!]]></item>
@@ -12813,7 +12813,7 @@
  <item name="influence_battle_score_first"><![CDATA[Korporacja %FACTION% prowadzi w Walce o wpływy. Punktacja: %FACTIONPOINTS%! Doskonale, tak trzymać!]]></item>
  <item name="influence_battle_score_second"><![CDATA[Korporacja %FACTION% zajmuje drugie miejsce w Walce o wpływy. Punktacja: %FACTIONPOINTS%! Przy odrobinie wysiłku możecie być pierwsi!]]></item>
  <item name="influence_battle_score_third"><![CDATA[Korporacja %FACTION% zajmuje trzecie miejsce w Walce o wpływy. Punktacja: %FACTIONPOINTS%! Piloci, czas nieco podkręcić tempo!]]></item>
- <item name="title_traininggrounds"><![CDATA[tłumaczUltimate Battle Arena]]></item>
+ <item name="title_traininggrounds"><![CDATA[tłumaczGERUltimate Battle Arena]]></item>
  <item name="label_traininggrounds_victories"><![CDATA[Zwycięstwa: %AMOUNT%]]></item>
  <item name="label_traininggrounds_battles"><![CDATA[Stoczone pojedynki: %AMOUNT%]]></item>
  <item name="label_traininggrounds_current_score"><![CDATA[Aktualny wynik: %AMOUNT%]]></item>
