@@ -60,7 +60,7 @@
  <item name="pilot_bio_title"><![CDATA[%USERNAME% külső profiloldala]]></item>
  <item name="pilot_bio_signup_teaser_1"><![CDATA[Ingyenes regisztráció]]></item>
  <item name="pilot_bio_signup_teaser_2"><![CDATA[és azonnal játszhatsz!]]></item>
- <item name="pilot_bio_total_view"><![CDATA[<span class="viewsAll">Összesen:</span>  %VIEWS% <span class="viewsVisitors">látogató</span>]]></item>
+ <item name="pilot_bio_total_view"><![CDATA[<span class="viewsAll">Összesen:</span> %VIEWS% <span class="viewsVisitors">látogató</span>]]></item>
  <item name="pilot_bio_total_views"><![CDATA[<span class="viewsAll">Összesen:</span> %VIEWS% <span class="viewsVisitors">látogató</span>]]></item>
  <item name="pilot_bio_total_views_all"><![CDATA[Összesen:]]></item>
  <item name="pilot_bio_total_visitor"><![CDATA[látogató]]></item>
@@ -91,8 +91,8 @@
  <item name="pilot_bio_button_back_long"><![CDATA[Vissza]]></item>
  <item name="pilot_bio_error_message"><![CDATA[HIBAÜZENET]]></item>
  <item name="pilot_bio_error_message_long"><![CDATA[Hibaüzenet]]></item>
- <item name="pilot_bio_error_okay"><![CDATA[OK]]></item>
- <item name="pilot_bio_error_okay_long"><![CDATA[OK]]></item>
+ <item name="pilot_bio_error_okay"><![CDATA[UDSSADSOK]]></item>
+ <item name="pilot_bio_error_okay_long"><![CDATA[UDSSADSOK]]></item>
  <item name="pilot_bio_close"><![CDATA[BEZÁR]]></item>
  <item name="pilot_bio_close_long"><![CDATA[bezár]]></item>
  <item name="pilot_bio_browse"><![CDATA[TALLÓZÁS]]></item>
