@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource>
+ <item name="thousands_separator"><![CDATA[To jest pierwszy segment]]></item>
+ <item name="decimal_mark"><![CDATA[To jest 2 segment]]></item>
+ <item name="thousands_separator"><![CDATA[To jest 3 segment]]></item>
+ <item name="decimal_mark"><![CDATA[To jest 4 segment]]></item>3
+ <item name="decimal_mark"><![CDATA[To jest 5 segment]]></item>
+ <item name="decimal_mark"><![CDATA[To jest 6 segment]]></item>
+ <item name="thousands_separator"><![CDATA[To jest 7 segment]]></item>
+</resource>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource>
+ <item name="thousands_separator"><![CDATA[To jest pierwszy segment]]></item>
+ <item name="decimal_mark"><![CDATA[To jest 2 segment]]></item>
+ <item name="thousands_separator"><![CDATA[To jest 3 segment]]></item>
+ <item name="decimal_mark"><![CDATA[To jest 4 segment]]></item>3
+ <item name="decimal_mark"><![CDATA[To jest 5 segment]]></item>
+ <item name="decimal_mark"><![CDATA[To jest 6 segment]]></item>
+ <item name="thousands_separator"><![CDATA[To jest 7 segment]]></item>
+ <item name="decimal_mark"><![CDATA[To jest 8 segment]]></item>
+ <item name="decimal_mark"><![CDATA[To jest 9 segment]]></item>
+ <item name="thousands_separator"><![CDATA[To jest 10 segment]]></item>
+ <item name="decimal_mark"><![CDATA[To jest 11 segment]]></item>
+ <item name="decimal_mark"><![CDATA[To jest 12 segment]]></item>
+ <item name="thousands_separator"><![CDATA[To jest 13 segment]]></item>
+ <item name="thousands_separator"><![CDATA[To jest 14 segment]]></item>
+ <item name="decimal_mark"><![CDATA[To jest 15 segment]]></item>
+ <item name="decimal_mark"><![CDATA[To jest 16 segment]]></item>
+ <item name="thousands_separator"><![CDATA[To jest 17 segment]]></item>
+</resource>
