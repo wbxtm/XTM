@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource>
+ <item name="premium_extension_call_claim_1month_EUR"><![CDATA[VIP avantajlarının süresini sadece %AMOUNT%&nbsp;€ ödeyip 1 ay boyunca uzat! Ücretsiz tamir, süre avantajları, otomatik yardımcılar... Ayrıcalıkların tadını çıkar!<br>
+        <br>
+SADECE BURADA VE ŞİMDİ: Çok ucuza VIP avantajları!]]></item>
+ <item name="premium_extension_call_claim_1month_USD"><![CDATA[VIP avantajlarının süresini sadece %AMOUNT%&nbsp;$ ödeyip 1 ay boyunca uzat!  Ücretsiz tamir, süre avantajları, otomatik yardımcılar... Ayrıcalıkların tadını çıkar!<br>
+        <br>
+SADECE BURADA VE ŞİMDİ: Çok ucuza VIP avantajları!]]></item>
+ <item name="premium_extension_call_claim_1month_GBP"><![CDATA[VIP avantajlarının süresini sadece %AMOUNT%&nbsp;£ ödeyip 1 ay boyunca uzat! Ücretsiz tamir, süre avantajları, otomatik yardımcılar... Ayrıcalıkların tadını çıkar!<br>
+        <br>
+SADECE BURADA VE ŞİMDİ: Çok ucuza VIP avantajları!]]></item>
+ <item name="premium_extension_1month_benefit1"><![CDATA[<strong>Fiyat avantajlarından ve indirimlerden yararlan</strong>]]></item>
+ <item name="premium_extension_1month_benefit2"><![CDATA[<strong>Ücretsiz uzay gemisi ve P.E.T. tamiri</strong>]]></item>
+ <item name="premium_extension_1month_benefit3"><![CDATA[<strong>Süre avantajları ve daha fazla yük kapasitesi</strong>]]></item>
+ <item name="premium_extension_1month_benefit4"><![CDATA[<strong>Otomatik hammadde zenginleştirmesi ve çok daha fazlası</strong>]]></item>
+</resource>
