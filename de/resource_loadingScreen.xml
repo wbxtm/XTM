@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <language key="dev">
- <category name="">
+    <category name="">
   <item name="btn_label_start"><![CDATA[BAŞLA]]></item>
   <item name="btn_label_claim"><![CDATA[AL]]></item>
   <item name="btn_label_loading"><![CDATA[YÜKLENİYOR]]></item>
