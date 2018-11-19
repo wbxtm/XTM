@@ -3,4 +3,5 @@
  <item name="thousands_separator"><![CDATA[.]]></item>
  <item name="decimal_mark"><![CDATA[,]]></item>
  <item name="decimal_kkkkk"><![CDATA[kkkkkkk]]></item>
+ <item name="decimal_stefanos"><![CDATA[stefanos]]></item>
 </resource>
