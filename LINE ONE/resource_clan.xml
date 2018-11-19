@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resource>
+ <item name="clan_headline_stefan"><![CDATA[dopisek stefana]]></item>
  <item name="clan_headline_clanlist"><![CDATA[Lista klanu]]></item>
  <item name="clan_headline_clandetails"><![CDATA[Strona klanu]]></item>
  <item name="clan_headline_clanfound"><![CDATA[Załóż klan]]></item>
