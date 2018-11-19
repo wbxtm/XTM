@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resource>
- <item name="thousands_separator"><![CDATA[.]]></item>
- <item name="decimal_mark"><![CDATA[,]]></item>
+    <item name="thousands_separator"><![CDATA[.]]></item>
+    <item name="decimal_mark"><![CDATA[,]]></item>
+    <item name="decimal_kkkkk"><![CDATA[tłuamczeniekkkkkkk]]></item>
+    <item name="decimal_stefanos"><![CDATA[tłumaczeniestefanos]]></item>
 </resource>
