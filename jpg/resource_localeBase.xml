@@ -2,4 +2,5 @@
 <resource>
  <item name="thousands_separator"><![CDATA[.]]></item>
  <item name="decimal_mark"><![CDATA[,]]></item>
+ <item name="decimal_mark2222"><![CDATA[newseq]]></item>
 </resource>
