@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resource>
     <item name="login_serverlist_hint"><![CDATA[CLONEİstediğin sunucuyu seç:]]></item>
+    <item name="footer_supportzmiana"><![CDATA[TŁzmianaSupport]]></item>
+    <item name="abortInstanceSelectionzmiana"><![CDATA[TŁzmianaiptal]]></item>
     <item name="footer_support"><![CDATA[CLONESupport]]></item>
     <item name="abortInstanceSelection"><![CDATA[CLOENEiptal]]></item>
 </resource>
