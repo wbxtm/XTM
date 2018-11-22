@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource>
+ <item name="clan_hl_clan_gruenden"><![CDATA[Klan kur]]></item>
+ <item name="clan_hl_mitteilung_versenden"><![CDATA[Haber yolla]]></item>
+ <item name="clan_hl_open_requests"><![CDATA[Açık başvurular]]></item>
+ <item name="clan_hl_diplo_antrag"><![CDATA[Diplomasi başvurusu]]></item>
+ <item name="clan_hl_diplo_beantragen"><![CDATA[Diplomasi başvurusunda bulun]]></item>
+ <item name="clan_hl_anfragen"><![CDATA[Sorular]]></item>
+ <item name="clan_hl_clan_diplomatie"><![CDATA[Klan diplomasisi]]></item>
+ <item name="clan_hl_bewerbung"><![CDATA[Başvuru]]></item>
+ <item name="clan_hl_clan_mitglieder"><![CDATA[Klan üyeleri]]></item>
+ <item name="clan_hl_steuersatz"><![CDATA[Vergi oranı]]></item>
+ <item name="clan_hl_clanrechte"><![CDATA[Klan hakları]]></item>
+ <item name="clan_hl_claninformationen"><![CDATA[Klan bilgileri]]></item>
+ <item name="clan_hl_clan_info"><![CDATA[Klan bilgisi]]></item>
+ <item name="clan_hl_systemnachricht"><![CDATA[Sistem haberi]]></item>
+ <item name="clan_hl_auszahlungen"><![CDATA[Ödeme]]></item>
+ <item name="clan_hl_transaktionen"><![CDATA[Transaksiyonlar]]></item>
+ <item name="clan_hl_clan_konto"><![CDATA[Klan hesabı]]></item>
+ <item name="clan_hl_postfach"><![CDATA[Posta kutusu]]></item>
+ <item name="clan_hl_bewerbungen"><![CDATA[Başvuru]]></item>
+ <item name="clan_hl_mitglieder"><![CDATA[Üyeler]]></item>
+ <item name="clan_hl_clan_logo"><![CDATA[Klan logosu]]></item>
+ <item name="clan_hl_clan_suche"><![CDATA[Klan arama]]></item>
+ <item name="clan_hl_clan_news"><![CDATA[Klan haberi]]></item>
+ <item name="clan_hl_clan_text"><![CDATA[Klan yazısı]]></item>
+ <item name="clan_hl_claninformation"><![CDATA[Klan bilgisi]]></item>
+ <item name="clan_hl_clan"><![CDATA[Klan]]></item>
+ <item name="clan_hl_clan_bewerbung"><![CDATA[Klan başvurusu]]></item>
+ <item name="clan_hl_steuern_aendern"><![CDATA[Vergi oranını değiştir.]]></item>
+ <item name="clan_hl_firmendetails"><![CDATA[Şirket Detayları]]></item>
+ <item name="clan_message_error_payout_userMaxWeekly_reached"><![CDATA[Bu kullanıcı için haftalık ödeme sınırına ulaşıldı.]]></item>
+ <item name="clan_message_error_payout_userMax_reached"><![CDATA[Miktar, bu kullanıcının haftalık ödeme sınırını aşıyor. Maks. Ödeme Sınırı: %AMOUNT% %CURRENCY%]]></item>
+ <item name="clan_message_error_payout_clanMax_reached"><![CDATA[Yetersiz Kredi!]]></item>
+ <item name="clan_message_payout_maxAmount"><![CDATA[(maks. %AMOUNT% %CURRENCY%)]]></item>
+</resource>
