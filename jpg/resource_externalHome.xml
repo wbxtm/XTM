@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resource>
  <item name="login_serverlist_hint"><![CDATA[İstediğin sunucuyu seç:]]></item>
- <item name="footer_support"><![CDATA[Support]]></item>
- <item name="abortInstanceSelection"><![CDATA[iptal]]></item>
+ <item name="footer_supportzmiana"><![CDATA[zmianaSupport]]></item>
+ <item name="abortInstanceSelectionzmiana"><![CDATA[zmianaiptal]]></item>
 </resource>
