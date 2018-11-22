@@ -19,6 +19,6 @@
   <item name="login_time_day_short"><![CDATA[g]]></item>
   <item name="login_time_hour_short"><![CDATA[s]]></item>
    <item name="login_time_hour_short_dodana"><![CDATA[ssodana nazwa]]></item
-  <item name="login_time_minute_short"><![CDATA[d]]></item>
+  <item name="login_time_minute_shortzmieniona"><![CDATA[dzmieniona]]></item>
  </category>
 </language>
