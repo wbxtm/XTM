@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resource>
- <item name="standalone_headline_update"><![CDATA[Client Update]]></item>
- <item name="standalone_headline_faction"><![CDATA[Firmenwahl]]></item>
+ <item name="standalone_headline_update"><![CDATA[zmianaClient Update]]></item>
+ <item name="standalone_headline_faction"><![CDATA[zmianaFirmenwahl]]></item>
  <item name="standalone_headline_offers"><![CDATA[Deal of the day]]></item>
  <item name="standalone_text_or"><![CDATA[or]]></item>
  <item name="standalone_text_greeting"><![CDATA[Hi, %USER%]]></item>
@@ -24,5 +24,5 @@
  <item name="standalone_link_confirm"><![CDATA[Confirm]]></item>
  <item name="standalone_link_close"><![CDATA[exit]]></item>
  <item name="standalone_warn_externalLink"><![CDATA[Achtung: Der Link wird in deinem Browser geöffnet.]]></item>
- <item name="standalone_error_linkRequiresLogin"><![CDATA[Du musst eingeloggt sein, um diesen Link öffnen zu können.]]></item>
+ <item name="standalone_error_linkRequiresLogin"><![CDATA[zmianaDu musst eingeloggt sein, um diesen Link öffnen zu können.]]></item>
 </resource>
