@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource>
+    <item name="labor_xtm_test_key"><![CDATA[PLXTM Test Key in the file laborres.xml]]></item>
+    <item name="labor_rohstoffe"><![CDATA[HAMMADDELER]]></item>
+    <item name="labor_intro"><![CDATA[Çekme menü ile malzemeni basit bir şekilde donatabilirsin: Hammaddeyi seçtiğin malzemenin üstüne çek!]]></item>
+    <item name="labor_prometid"><![CDATA[PLPROMETID]]></item>
+    <item name="labor_duranium"><![CDATA[PLPLDURANIUM]]></item>
+    <item name="labor_promerium"><![CDATA[PLPROMERIUM]]></item>
+    <item name="labor_items"><![CDATA[MALZEMELERİ GELİŞTİR]]></item>
+    <item name="labor_laser"><![CDATA[LAZER]]></item>
+    <item name="labor_raketen"><![CDATA[ROKETLER]]></item>
+    <item name="labor_antrieb"><![CDATA[İTİCİ MOTOR]]></item>
+    <item name="labor_schild"><![CDATA[KALKAN]]></item>
+    <item name="labor_txt_a"><![CDATA[Atış gücünü % 15 artırır]]></item>
+    <item name="labor_txt_b"><![CDATA[Performansı % 10 artırır]]></item>
+    <item name="labor_txt_c"><![CDATA[Atış gücünü % 30 veya performansı % 20 artırır]]></item>
+    <item name="alert_head"><![CDATA[ZENGİNLEŞTİRİLMİŞ PROMERIUM]]></item>
+    <item name="alert_txt"><![CDATA[Eğer bu hammaddeyle güncelleme yaparsan, önceden kullandığın hammaddenin özellikleri kaybolur.]]></item>
+    <item name="alert_line"><![CDATA[DİKKAT]]></item>
+    <item name="alert_upd"><![CDATA[GÜNCELLEME]]></item>
+    <item name="alert_abo"><![CDATA[İPTAL ET]]></item>
+</resource>
